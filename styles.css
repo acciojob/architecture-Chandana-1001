@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.main-container
+{
+	width:1100px;
+	background-color:lightyellow;
+	height:500px;
+}
+.imageContainer
+{
+	width:500px;
+	height:100px;
+}
+table,td{
+	border:1px solid black;
+}
+.column1,.column3
+{
+	width:200px;
+}
+.column2
+{
+	width:600px;
+}
